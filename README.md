@@ -100,10 +100,10 @@ It's about being **consistent**. 🔥
 | :-: | ---------------------- | :-------: |
 |  01 | Java Basics            |     ✅     |
 |  02 | Variables & Data Types |     ✅     |
-|  03 | Operators              |     ⏳     |
-|  04 | Conditional Statements |     ⏳     |
-|  05 | Loops                  |     ⏳     |
-|  06 | Methods                |     ⏳     |
+|  03 | Operators              |     ✅     |
+|  04 | Conditional Statements |     ✅     |
+|  05 | Loops                  |     ✅     |
+|  06 | Methods                |     ✅     |
 |  07 | Arrays                 |     ⏳     |
 
 > 📝 **This table will be updated every day as I continue my journey.**
